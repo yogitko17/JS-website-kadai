@@ -1,0 +1,47 @@
+.firstview-page {
+  min-height: 300px;
+  background: url(../img/mv.png) center;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 50px;
+}
+.firstview-page_content {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  color: #fff;
+  text-align: center;
+}
+.firstview-page_catchcopy {
+  font-weight: bold;
+  font-size: 30px;
+}
+.recruit-content-1,
+.recruit-content-2 {
+  margin: 20px auto;
+  width: 80%;
+}
+.recruit-content-ttl {
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 1px #000;
+}
+.recruit-content-txt {
+  padding: 20px 0;
+}
+.recruit-content-table {
+  border: solid 1px #000;
+  width: 100%;
+}
+.recruit-content-table-ttl,
+.recruit-content-table-txt {
+  border-bottom: 1px solid #000;
+  padding: 15px 0;
+}
+.recruit-content-table-ttl {
+  border-right: #000 solid 1px;
+  background-color: rgb(226, 225, 225);
+}
+.recruit-content-table-txt {
+  padding-left: 20px;
+}
